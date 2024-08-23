@@ -1,0 +1,19 @@
+/* src/components/CustomerForm.css */
+
+.customer-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .customer-form .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .customer-form button {
+    margin-top: 1rem;
+  }
+  

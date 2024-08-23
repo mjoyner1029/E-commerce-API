@@ -1,0 +1,19 @@
+/* src/components/OrderForm.css */
+
+.order-form {
+    max-width: 600px;
+    margin: auto;
+    padding: 1rem;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background-color: #fff;
+  }
+  
+  .order-form .form-group {
+    margin-bottom: 1rem;
+  }
+  
+  .order-form button {
+    margin-top: 1rem;
+  }
+  

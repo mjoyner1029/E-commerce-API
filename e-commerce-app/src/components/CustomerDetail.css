@@ -1,0 +1,13 @@
+/* src/components/CustomerDetail.css */
+
+.customer-detail {
+    padding: 1rem;
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+  }
+  
+  .customer-detail h2 {
+    margin-bottom: 1rem;
+  }
+  
